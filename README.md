@@ -1,1 +1,1 @@
-Outsourcing project
+Outsourcing projects
