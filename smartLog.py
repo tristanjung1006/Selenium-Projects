@@ -14,7 +14,7 @@ from selenium.common.exceptions import TimeoutException
 # 입력사항(아이디, 비밀번호, 조회기간), 블랙리스트에 추가할 IP를 저정하는 리스트
 """
 id = 'akssmd123'
-pw = 'duddls1@3'
+pw = ''
 daterange = "2023.07.12 - 2023.07.12"
 count_1 = 100
 """
