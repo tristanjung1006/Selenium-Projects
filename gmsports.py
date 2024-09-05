@@ -20,15 +20,15 @@ headers = {
                   'Safari/537.36'
 }
 
-main_url = f"https://gmsports1.cafe24.com/bbs/board.php?bo_table=booking&office_no={court}"
+main_url = f"https://gmsc9400.mycafe24.com/bbs/board.php?bo_table=booking&office_no={court}"
 
-login_url = "https://gmsports1.cafe24.com/bbs/login_check.php"
+login_url = "https://gmsc9400.mycafe24.com/bbs/login_check.php"
 
-reserve_url = f"https://gmsports1.cafe24.com/bbs/write.php?bo_table=booking&office_no={court}&select={date}"
+reserve_url = f"https://gmsc9400.mycafe24.com/bbs/write.php?bo_table=booking&office_no={court}&select={date}"
 
-write_url = "https://gmsports1.cafe24.com/bbs/write_update.php"
+write_url = "https://gmsc9400.mycafe24.com/bbs/write_update_gmsc.php"
 
-token_url = "https://gmsports1.cafe24.com/bbs/write_token.php"
+token_url = "https://gmsc9400.mycafe24.com/bbs/write_token.php"
 
 payload_login = {
     'url': f'%2Fbbs%2Fboard.php%3Fbo_table%3Dbooking%26office_no%3D{court}',
